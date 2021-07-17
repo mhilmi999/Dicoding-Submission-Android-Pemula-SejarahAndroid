@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sejarah Android</string>
+    <string name="version_name">Versi Android</string>
+    <string name="detail">Pada Android versi ini.....</string>
+    <string name="profile">Profil</string>
+    <string name="namaku">Muhammad Hilmi Ramadhan</string>
+    <string name="emailku">hilmi.muhammad.rmdhn@gmail.com</string>
+    <string name="android_version">Nama Versi Android</string>
+    <string name="android_detail">Detail Versi Android</string>
+    <string name="content_detail">Konten deskripsi versi Android</string>
+    <string name="judul_about">Hubungi Saya \n  \nGithub  \nLinkedIn \n \nDicoding \n </string>
+    <string name="konten_about">\n \n@mhilmi999  \nhttps://www.linkedin.com/in/mhilmi999/ \n \nhttps://www.dicoding.com/users/hilmi_rmdhnn </string>
+</resources>
