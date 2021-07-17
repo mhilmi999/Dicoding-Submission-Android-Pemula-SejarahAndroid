@@ -5,7 +5,7 @@ Berikut merupakan Proyek Akhir (Submission) dalam **Belajar Membuat Aplikasi And
 
 ## Mohon dibaca
 ---
-Proyek aplikasi ini dibuat semata untuk kelas Android Pemula pada platform belajar [Dicoding](https://www.dicoding.com/academies/51), segala bentuk kecurangan seperti plagiarisme akan terdeteksi secara otomatis jika menggunakan proyek ini sebagai submission dari kursus tersebut dikemudian hari. Diharapkan proyek ini dapat bermanfaat sebagai referensi belajar dan bukan untuk melakukan *copy-paste* proyek submission!.
+Proyek aplikasi ini dibuat semata untuk kelas Android Pemula pada platform belajar [Dicoding](https://www.dicoding.com/academies/51) yang mana menggunakan bahasa Koltin, segala bentuk kecurangan seperti plagiarisme akan terdeteksi secara otomatis jika menggunakan proyek ini sebagai submission dari kursus tersebut dikemudian hari. Diharapkan proyek ini dapat bermanfaat sebagai referensi belajar dan bukan untuk melakukan *copy-paste* proyek submission!.
 <br>
 
 ## Tangkapan Layar
